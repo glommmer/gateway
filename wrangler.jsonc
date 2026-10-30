@@ -3,6 +3,9 @@
   "name": "gateway",
   "main": "src/index.js",
   "compatibility_date": "2026-10-30",
+  "services": [
+    { "binding": "DOG_MAP", "service": "dog-map" }
+  ]
   "assets": {
     "directory": "./public",
     "binding": "ASSETS",

@@ -1,7 +1,7 @@
 // First path segment -> target service name
 // Left blank: no service currently available
 const ROUTES = {
-  // e.g., reborn: "REBORN",
+  "dog-map": "DOG_MAP",
 };
 
 export default {
